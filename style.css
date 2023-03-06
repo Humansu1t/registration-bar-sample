@@ -12,7 +12,7 @@ body{
    left: 50%;
    transform: translate(-50%, -50%);
    box-shadow: 0 0 40px 20px rgba(0, 0, 0, 0.5);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/621482.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(./images/621482.jpg);
    background-size: cover;
    background-position: center;
    padding: 20px 10px;
